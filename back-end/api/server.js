@@ -1,9 +1,3 @@
-// API significa Application Programming Interface
-// POST, GET, PUT, DELETE
-// CRUD - Create Read Update Delete
-// Endpoint
-// Middleware
-
 import express from "express";
 import cors from "cors";
 import { db } from "./connect.js";
